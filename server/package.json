@@ -14,7 +14,8 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "prettier": "prettier --check **/*.js",
-    "prettier:fix": "prettier --write **/*.js"
+    "prettier:fix": "prettier --write **/*.js",
+    "heroku:prod": "heroku git:remote foodhunk && git push heroku main"
   },
   "keywords": [
     "node",
