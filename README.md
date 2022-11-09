@@ -56,7 +56,6 @@ This is the restaurant website
 #### * If i want to see the chefs and their speciality.
 #### * If i want to check the reviews of food.
 ![image](https://i.postimg.cc/X7HH9zyw/Screenshot-20.png)
-
 ![image](https://i.postimg.cc/7hb74mYk/Screenshot-21.png)
 ![image](https://i.postimg.cc/ZKG3k8GG/Screenshot-22.png)
 ![image](https://i.postimg.cc/QdgFRRk7/Screenshot-23.png)
@@ -76,14 +75,9 @@ This is the restaurant website
 #### Mobile applications screenshots given below
 
 ![image](https://i.postimg.cc/RFWssQ5W/Whats-App-Image-2022-11-10-at-02-24-19.jpg)
-
 ![image](https://i.postimg.cc/L8myKMFK/Whats-App-Image-2022-11-10-at-02-24-19-1.jpg)
-
 ![image](https://i.postimg.cc/7Y93zGdd/Whats-App-Image-2022-11-10-at-02-24-20.jpg)
-
-
 ![image](https://i.postimg.cc/DzJLRC03/Whats-App-Image-2022-11-10-at-02-24-20-1.jpg)
-
 ![image](https://i.postimg.cc/DfdLV4v0/Whats-App-Image-2022-11-10-at-02-24-21.jpg)
 ![image](https://i.postimg.cc/sxvrJZKm/Whats-App-Image-2022-11-10-at-02-24-22.jpg)
 ![image](https://i.postimg.cc/QCwrYxy3/Whats-App-Image-2022-11-10-at-02-24-22-1.jpg)
